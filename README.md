@@ -1,4 +1,4 @@
-#SCP downloader
+## SCP downloader
 A simple bash script I made to download every scp entry between 1 and 2999.
 2999 is the current limit due to the change in formatting that after 2999, and support for past that entry will be added later if I find it worth it.
 
