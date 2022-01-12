@@ -25,7 +25,7 @@ do
 	removeExtra $scp
 done
 
-for i in {100..2000}
+for i in {100..2999}
 do
 	scp=$i
 	wget https://scp-wiki.wikidot.com/printer--friendly//scp-$scp
